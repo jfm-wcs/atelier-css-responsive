@@ -1,3 +1,3 @@
-# Workshop HTML/CSS Basics #1
+# Correction de l'atelier HTML/CSS #2 - responsive
 
-From the workshop https://github.com/WildCodeSchool/html-basics-workshop.
+From the workshop https://wildcodeschool.github.io/css-workshop/.
